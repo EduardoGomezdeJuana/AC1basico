@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Happy Birthday"
+rootProject.name = "AC1basico"
 include(":app")
